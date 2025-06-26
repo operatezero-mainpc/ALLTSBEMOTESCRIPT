@@ -1,6 +1,6 @@
 --// CONFIG
 local imageURL = "https://eforms.com/images/2018/03/Employment-Job-Application.png"
-local vineBoomURL = "https://github.com/ZeroCru/VineBoom/raw/main/VineBoom.mp3"
+local vineBoomURL = "https://github.com/operatezero-mainpc/ALLTSBEMOTESCRIPT/blob/main/ActivationSFX/GUISFX.mp3"
 local displayTime = 5 -- how long it stays before fading
 local fadeTime = 2 -- how long the fade out takes
 
